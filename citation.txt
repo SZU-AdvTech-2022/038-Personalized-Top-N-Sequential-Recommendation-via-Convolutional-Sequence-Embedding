@@ -1,0 +1,8 @@
+@inproceedings{REPO-038,
+    author = "Tang, Jiaxi and Wang, Ke",
+    booktitle = "Proceedings of the 11th ACM International Conference on Web Search and Data Mining",
+    pages = "565--573",
+    series = "WSDM '18",
+    title = "{Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding}",
+    year = "2018"
+}
